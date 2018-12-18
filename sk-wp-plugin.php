@@ -5,7 +5,7 @@ Plugin Name: SK Wordpress Plugin
 Plugin Description: This is a test plugin for checking the Private Updates
 Plugin Author: Salih K
 Plugin URI: https://salih.me
-Version: 1.0
+Version: 1.0.1
 */
 
 
