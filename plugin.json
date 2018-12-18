@@ -1,0 +1,8 @@
+{
+	"name": "SK Wordpress Plugin",
+	"version": "1.0.1",
+	"download_url": "https://github.com/salihkulangara/sk-wp-plugin/archive/1.0.1.zip",
+	"sections": {
+		"description": "Plugin description here. You can use HTML."
+	}
+}
