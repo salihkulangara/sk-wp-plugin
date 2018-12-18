@@ -1,4 +1,4 @@
-=== Classic Editor ===
+=== SK Wordpress Plugin ===
 Contributors: cairs solutions
 Tags: families, adoptive families
 Requires at least: 4.9
